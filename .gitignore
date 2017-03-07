@@ -1,0 +1,12 @@
+logs/
+objects/
+.idea/
+.git/
+__pycache__/
+hooks/
+info/
+objects/
+refs/
+config
+description
+HEAD
